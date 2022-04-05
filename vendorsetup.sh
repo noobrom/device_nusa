@@ -1,3 +1,2 @@
-export SKIP_ABI_CHECKS=true
-export SELINUX_IGNORE_NEVERALLOWS=true
-export TEMPORARY_DISABLE_PATH_RESTRICTIONS=true
+git clone --depth=1  https://github.com/stormbreaker-project/kernel_xiaomi_lavender kernel/xiaomi/lavender
+git clone --depth=1 https://github.com/XenStuff/vendor_xiaomi_lavender-2 vendor/xiaomi/lavender
